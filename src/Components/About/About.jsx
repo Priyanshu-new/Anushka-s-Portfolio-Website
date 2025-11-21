@@ -21,11 +21,12 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+                A passionate front-end developer skilled in HTML, 
+                CSS, JavaScript, and React. I designed a complete,
+                visually appealing website for Emorce. Creative,
+                detail-oriented, and user-focused, she builds 
+                responsive, intuitive interfaces and continually 
+                learns new tools to deliver high-quality experiences.
                 </p>
               </span>
             </div>

@@ -23,7 +23,7 @@ const About = () => {
                 <p className="text-sm md:text-md leading-tight">
                 A passionate front-end developer skilled in HTML, 
                 CSS, JavaScript, and React. I designed a complete,
-                visually appealing websit    e for Emorce. Creative,
+                visually appealing website for Emorce. Creative,
                 detail-oriented, and user-focused, she builds 
                 responsive, intuitive interfaces and continually 
                 learns new tools to deliver high-quality experiences.
